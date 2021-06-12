@@ -1,0 +1,6 @@
+Exam
+
+Submitted by student of {{ GROUP-87 }} group
+{{ TUNC }} {{ ONCU }}
+
+Date: {{ 12 }} {{ 06 }} {{ 2021 }}
